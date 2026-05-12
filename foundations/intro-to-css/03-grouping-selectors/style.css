@@ -1,1 +1,12 @@
-/* Add CSS Styling */
+.goofy
+.classy{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+.goofy {
+    background-color: black;
+    color: white;
+}
+.classy {
+    background-color: yellow;
+}
